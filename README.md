@@ -1,2 +1,5 @@
 # PyTorch-YOLOv3
-for GSHS R&E
+Graduation Thisis Code of Junu Kwon, student of the Gyeonggi Science High School
+
+경기과학고등학교 2020년 심화연구
+경기과학고등학교 2021년 졸업논문
